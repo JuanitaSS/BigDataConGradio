@@ -39,6 +39,8 @@ TEMA = gr.themes.Base(
     button_primary_text_color="#050a0e",
 )
 
+#Estilo del frontend
+
 CSS_PERSONALIZADO = """
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap');
 
