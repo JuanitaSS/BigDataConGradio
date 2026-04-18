@@ -9,7 +9,7 @@ Sistema de diagnóstico asistido por inteligencia artificial basado en imágenes
 | Nombre | GitHub |
 |--------|--------|
 | Juanita Solórzano Salazar | [@JuanitaSS](https://github.com/JuanitaSS) |
-| Cristian Ocampo | [@Susanassstaion](https://github.com/Susanassstaion) |
+| Cristian Ocampo | 
 
 ---
 

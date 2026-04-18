@@ -665,11 +665,11 @@ Input  <span class="arch-dim">3 × 224 × 224</span>
     </div>
   </div>
 
-  <!-- INTEGRANTES -->
+  <!-- INGREDIENTES DEL EQUIPO-->
   <div class="about-section-label">Equipo de Desarrollo</div>
   <div class="team-grid">
     <div class="team-card">
-      <div class="team-avatar">👩‍💻</div>
+      <div class="team-avatar">👩🏽‍💻</div>
       <div class="team-info">
         <div class="team-name">Juanita Solórzano Salazar</div>
         <div class="team-role">Investigadora · Desarrolladora</div>
@@ -677,7 +677,7 @@ Input  <span class="arch-dim">3 × 224 × 224</span>
       </div>
     </div>
     <div class="team-card">
-      <div class="team-avatar">👨‍💻</div>
+      <div class="team-avatar">🤷🏼‍♂️</div>
       <div class="team-info">
         <div class="team-name">Cristian Ocampo</div>
         <div class="team-role">Investigador · Desarrollador</div>
